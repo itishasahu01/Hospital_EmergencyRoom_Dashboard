@@ -1,8 +1,4 @@
 ## Hospital Emergency Room Dashboard
-<p align="center">
-  <img src="Hospital_ER_Dashboard.jpeg" width="900"/>
-</p>
-
 
 #### Project Summary
 In this project, I created an interactive Emergency Room Dashboard in Excel to analyze hospital data and identify key operational insights.
