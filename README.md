@@ -59,31 +59,31 @@ The main objective was to understand:
 * Average satisfaction score is 5/10
 👉 This is relatively low and may be linked to long waiting times
 
-###### 🎯 Conclusion
+#### 🎯 Conclusion
 From this analysis, I concluded that:
 🚨 Waiting time is the biggest issue affecting patient experience
 📊 ER handles most cases without referral, showing strong internal capability
 👨‍👩‍👧 Adults are the primary users of emergency services
 ⭐ Improving efficiency can directly increase patient satisfaction
 
-###### 🚀 Tools Used
+#### 🚀 Tools Used
 * Microsoft Excel
 * Pivot Tables
 * Charts (Bar, Pie, Donut)
 * Slicers for interactivity
 
-###### 💡 What I Learned
+#### 💡 What I Learned
 * How to convert raw data into insights
 * Dashboard design and storytelling
 * Identifying business problems from data
 * Presenting data in a clear and visual way
 
-###### 📌 Future Scope
+#### 📌 Future Scope
 * Add more KPIs like patient turnaround time
 * Improve dashboard design
 * Convert this project into Power BI
 
-###### ⭐ Support
+#### ⭐ Support
 If you found this project useful, feel free to ⭐ the repo!
 
 
