@@ -29,8 +29,8 @@ The main objective was to understand:
 
 ###### ⏱ 2. Waiting Time Issue
 * Average wait time is **35 minutes**
-* Only **59%** patients were attended on time
-* **41%** experienced delays
+* Only **41%** patients were attended on time
+* **59%** experienced delays
 👉 This highlights a major operational gap in handling patients
 
 ###### 🎂 3. Age Group Trend
